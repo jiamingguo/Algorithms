@@ -1,6 +1,5 @@
-package Medium.SortList;
+package Medium.SortList_148;
 
-import Medium.SortList.ListNode;
 /**
  * Created by gjm19_000
  *
