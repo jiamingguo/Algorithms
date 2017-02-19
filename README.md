@@ -1,2 +1,2 @@
-# LearningJava
-Private project for learning Java
+# Algorithms
+Private project for practicing Algorithms
