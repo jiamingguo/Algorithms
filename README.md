@@ -1,2 +1,2 @@
 # Algorithms
-Private project for practicing Algorithms
+Repository for practicing Algorithm in Java
